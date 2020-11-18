@@ -8,3 +8,5 @@
 采集的正文信息如下：
 
 <img src=https://github.com/wanlitengfei/baijiahao/blob/master/img/baijiahao_article.jpg>
+
+如果想获取更多的信息请访问：http://vvd8.com/article-detials/86
